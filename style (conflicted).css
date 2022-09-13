@@ -1,0 +1,30 @@
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+h1 {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color:#284855;
+}
+.blockOne {
+    height: 300px;
+    width: 1200px;
+    display: flex;
+    padding: 20px 20px;
+    background-color: #59C5ED;
+    justify-content: space-between;
+}
+.blockTwo {
+    height: 300px;
+    width: 1200px;
+    display: flex;
+}
+
+.blockThree {
+    height: 300px;
+    width: 1200px;
+    display: flex;
+}
